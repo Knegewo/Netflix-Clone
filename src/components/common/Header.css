@@ -1,0 +1,35 @@
+.container{
+  padding: 0 0rem;
+}
+.logo img{
+height: 5rem;
+width: 15vw;
+}
+button{
+  padding: 0.5rem 1rem;
+  background-color: #e50914;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 0.2rem;
+  font-weight: bolder;
+  font-size: 1.05rem;
+
+}
+
+
+
+/* .logo img {  
+    height: 5rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: #e50914;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 0.2rem;
+    font-weight: bolder;
+    font-size: 1.05rem;
+} */

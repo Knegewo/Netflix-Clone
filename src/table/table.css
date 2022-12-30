@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  Table {
+    border: 2px solid blueviolet;
+  }
+  
+  .head {
+    background-color: burlywood;
+    border: 2px solid blueviolet;
+  }
+  
+  td {
+    border: 2px solid green;
+  }
+  

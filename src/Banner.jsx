@@ -17,7 +17,7 @@ function Banner() {
       );
       return request;
       }
-      fetchData(); //we calling hte function. it works only when it calls. 
+      fetchData(); //we calling the function. it works only when it calls. 
       
     }, []); //no dependance. It's only render when it's start
     // console.log(movie);
